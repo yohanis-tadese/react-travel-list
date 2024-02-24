@@ -30,9 +30,8 @@ function Menu() {
       <h2>Pizza Menu</h2>
       <>
         <p>
-          Delicious pizza with a perfect blend of gooey cheese and savory
-          toppings, freshly baked to perfection and delivered hot to your
-          doorstep. Satisfaction in every slice!
+          Authentic Italian Cuisine. 6 creative dishes to choose from. All from
+          our stone oven, organic and finger licking delicious
         </p>
         <ul>
           {numPizza > 0 && (
