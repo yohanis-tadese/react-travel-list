@@ -1,4 +1,4 @@
-(https://github.com/kokenydaniel/travel-list/assets/129154129/26d72cfe-3aff-4670-bb49-80ddcd6985d4)
+
 
 <h1 align="center">✈️ Far Away 🧳</h1>
 
