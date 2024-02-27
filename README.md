@@ -1,6 +1,6 @@
 <h1 align="center">✈️ Far Away 🧳</h1>
 
-### <h3 align="center"> [Live]</h3>
+### <h3 align="center"> [Live](https://packed-travel-ready.netlify.app/)</h3>
 
 ## About The Project
 
