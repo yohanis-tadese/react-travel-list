@@ -1,8 +1,8 @@
 <h1 align="center">✈️ Far Away 🧳</h1>
 
-![traveler list packeds](https://github.com/Jhontadese/react-travel-list/raw/main/public/travel.png)
+### <h3> Hosted on! [Live! ](https://packed-travel-ready.netlify.app/)</h3>
 
-### <h3> Hosted on! [packed-travel-ready! ](https://packed-travel-ready.netlify.app/)</h3>
+![traveler list packeds](https://github.com/Jhontadese/react-travel-list/raw/main/public/travel.png)
 
 ## About The Project
 
